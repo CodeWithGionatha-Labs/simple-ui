@@ -1,5 +1,5 @@
+import { Box, BoxProps } from "@/components";
 import { cn } from "@/utils";
-import { Box, BoxProps } from "../Box";
 
 type StackProps = BoxProps;
 
